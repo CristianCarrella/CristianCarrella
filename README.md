@@ -1,10 +1,9 @@
-### Hi there 👋
+Hi everyone 🔮
+![](https://github.com/CristianCarrella/CristianCarrella/blob/main/img.gif)\
+I'm Cristian, computer science student and full stack developer.  
 
 <!--
-**CristianCarrella/CristianCarrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
