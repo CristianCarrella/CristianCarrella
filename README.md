@@ -1,6 +1,10 @@
-Hi everyone 🔮
-![](https://github.com/CristianCarrella/CristianCarrella/blob/main/img.gif)\
-I'm Cristian, computer science student and full stack developer.  
+Hi everyone 🎩 
+<br>
+<img src="https://github.com/CristianCarrella/CristianCarrella/blob/main/img.gif" width="500">
+
+I'm Cristian: 
+- Computer Science Student at <a href="https://www.unina.it/home;jsessionid=61018E6F37A44F25DD72071D1D332F5E.node_publisher11">Federico II, Napoli</a> university 📖
+- Full Stack Developer 💻
 
 <!--
 Here are some ideas to get you started:
