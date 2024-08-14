@@ -1,6 +1,6 @@
 Hi everyone 🎩 
 <br>
-<img src="https://github.com/CristianCarrella/CristianCarrella/blob/main/img.gif" width="500">
+<center><img src="https://github.com/CristianCarrella/CristianCarrella/blob/main/img.gif" width="500"></center>
 
 I'm Cristian: 
 - Computer Science Student at <a href="https://www.unina.it/home;jsessionid=61018E6F37A44F25DD72071D1D332F5E.node_publisher11">Federico II, Napoli</a> university 📖
