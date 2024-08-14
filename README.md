@@ -1,10 +1,13 @@
 Hi everyone 🎩 
 <br>
-<center><img src="https://github.com/CristianCarrella/CristianCarrella/blob/main/img.gif" width="500"></center>
+<p align="center">
+  <img src="https://github.com/CristianCarrella/CristianCarrella/blob/main/img.gif" width="500">
+</p>
 
 I'm Cristian: 
-- Computer Science Student at <a href="https://www.unina.it/home;jsessionid=61018E6F37A44F25DD72071D1D332F5E.node_publisher11">Federico II, Napoli</a> university 📖
+- I graduated with a degree in "Computer Science" at <a href="https://www.unina.it/home;jsessionid=61018E6F37A44F25DD72071D1D332F5E.node_publisher11">Federico II, Napoli</a> university 📖
 - Full Stack Developer 💻
+
 
 <!--
 Here are some ideas to get you started:
