@@ -5,7 +5,7 @@ Hi everyone 🎩
 </p>
 
 I'm Cristian: 
-- I graduated with a degree in "Computer Science" at <a href="https://www.unina.it/home;jsessionid=61018E6F37A44F25DD72071D1D332F5E.node_publisher11">Federico II, Napoli</a> university 📖
+- I graduated in "Computer Science" at <a href="https://www.unina.it/home;jsessionid=61018E6F37A44F25DD72071D1D332F5E.node_publisher11">Federico II, Napoli</a> university 📖
 - Full Stack Developer 💻
 
 
